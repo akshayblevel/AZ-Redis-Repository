@@ -1,0 +1,6 @@
+@AzRedisRepository_HostAddress = http://localhost:5189
+
+GET {{AzRedisRepository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

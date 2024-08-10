@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzRedisRepository", "AzRedisRepository\AzRedisRepository.csproj", "{864C6E2A-A669-42DC-B9A9-07827120D12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864C6E2A-A669-42DC-B9A9-07827120D12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864C6E2A-A669-42DC-B9A9-07827120D12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864C6E2A-A669-42DC-B9A9-07827120D12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864C6E2A-A669-42DC-B9A9-07827120D12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE4CA84-BE9F-4FC1-B3A2-B1AB8D8D2E39}
+	EndGlobalSection
+EndGlobal

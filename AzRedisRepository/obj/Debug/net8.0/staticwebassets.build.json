@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XGbS5yZjJxAY+xPjMQd/zfh1Yzl+2p/2Ok6GoTIEHyA=",
+  "Source": "AzRedisRepository",
+  "BasePath": "_content/AzRedisRepository",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
